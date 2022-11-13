@@ -1,0 +1,15 @@
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.csproj.AssemblyReference.cache
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfoInputs.cache
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.AssemblyInfo.cs
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.csproj.CoreCompileInputs.cache
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\bin\Debug\net6.0\задание 1.exe
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\bin\Debug\net6.0\задание 1.deps.json
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\bin\Debug\net6.0\задание 1.runtimeconfig.json
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\bin\Debug\net6.0\задание 1.dll
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\bin\Debug\net6.0\задание 1.pdb
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.dll
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\refint\задание 1.dll
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.pdb
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\задание 1.genruntimeconfig.cache
+C:\Users\never\Desktop\ДЗ\Знакомство с языками программирования\семинар 4\задание 1\obj\Debug\net6.0\ref\задание 1.dll
